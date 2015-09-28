@@ -1,0 +1,317 @@
+[
+    {
+        "components": [
+            "ClassLoader",
+            "DependencyInjection",
+            "EventDispatcher",
+            "HttpFoundation",
+            "HttpKernel",
+            "Routing",
+            "Serializer",
+            "Validator",
+            "Yaml"
+        ],
+        "name": "Drupal"
+    },
+    {
+        "components": [
+            "BrowserKit",
+            "Config",
+            "Console",
+            "CssSelector",
+            "Debug",
+            "DependencyInjection",
+            "DomCrawler",
+            "EventDispatcher",
+            "Filesystem",
+            "Finder",
+            "HttpFoundation",
+            "HttpKernel",
+            "Process",
+            "Routing",
+            "Yaml"
+        ],
+        "name": "phpBB"
+    },
+    {
+        "components": [
+            "BrowserKit",
+            "Console",
+            "CssSelector",
+            "Debug",
+            "DomCrawler",
+            "EventDispatcher",
+            "Filesystem",
+            "Finder",
+            "HttpFoundation",
+            "HttpKernel",
+            "Process",
+            "PropertyAccess",
+            "Routing",
+            "Translation"
+        ],
+        "name": "Laravel"
+    },
+    {
+        "components": [
+            "BrowserKit",
+            "ClassLoader",
+            "Config",
+            "Console",
+            "CssSelector",
+            "Debug",
+            "DependencyInjection",
+            "DomCrawler",
+            "EventDispatcher",
+            "Filesystem",
+            "Finder",
+            "Form",
+            "HttpFoundation",
+            "HttpKernel",
+            "Icu",
+            "Intl",
+            "Locale",
+            "OptionsResolver",
+            "Process",
+            "PropertyAccess",
+            "Routing",
+            "Security",
+            "Serializer",
+            "Stopwatch",
+            "Templating",
+            "Translation",
+            "Validator",
+            "Yaml"
+        ],
+        "name": "Symfony Full Stack"
+    },
+    {
+        "components": [
+            "Symfony Full Stack"
+        ],
+        "name": "eZ Publish Community"
+    },
+    {
+        "components": [
+            "Yaml"
+        ],
+        "name": "Joomla!"
+    },
+    {
+        "components": [
+            "Console",
+            "Finder",
+            "Process"
+        ],
+        "name": "Composer"
+    },
+    {
+        "components": [
+            "Console"
+        ],
+        "name": "Magento"
+    },
+    {
+        "components": [
+            "Console"
+        ],
+        "name": "Piwik"
+    },
+    {
+        "components": [
+            "BrowserKit",
+            "Config",
+            "CssSelector",
+            "Debug",
+            "DomCrawler",
+            "EventDispatcher",
+            "Finder",
+            "Form",
+            "HttpFoundation",
+            "HttpKernel",
+            "Locale",
+            "OptionsResolver",
+            "Process",
+            "Routing",
+            "Security",
+            "Serializer",
+            "Validator"
+        ],
+        "name": "Silex"
+    },
+    {
+        "components": [
+            "Process"
+        ],
+        "name": "Assetic"
+    },
+    {
+        "components": [
+            "BrowserKit",
+            "CssSelector",
+            "DomCrawler",
+            "Finder",
+            "Process"
+        ],
+        "name": "Goutte"
+    },
+    {
+        "components": [
+            "Console",
+            "Filesystem",
+            "Finder",
+            "Process",
+            "Yaml"
+        ],
+        "name": "Sami"
+    },
+    {
+        "components": [
+            "BrowserKit",
+            "ClassLoader",
+            "Console",
+            "CssSelector",
+            "DomCrawler",
+            "Filesystem",
+            "Finder",
+            "Process"
+        ],
+        "name": "Sismo"
+    },
+    {
+        "components": [
+            "Yaml"
+        ],
+        "name": "PHPUnit"
+    },
+    {
+        "components": [
+            "Symfony Full Stack"
+        ],
+        "name": "OroCRM"
+    },
+    {
+        "components": [
+            "Symfony Full Stack"
+        ],
+        "name": "Oro Platform"
+    },
+    {
+        "components": [
+            "Console",
+            "Yaml"
+        ],
+        "name": "Doctrine"
+    },
+    {
+        "components": [
+            "ClassLoader",
+            "Config",
+            "Console",
+            "DependencyInjection",
+            "EventDispatcher",
+            "Finder",
+            "Translation",
+            "Yaml"
+        ],
+        "name": "Behat"
+    },
+    {
+        "components": [
+            "Symfony Full Stack"
+        ],
+        "name": "Sylius"
+    },
+    {
+        "components": [
+            "Symfony Full Stack"
+        ],
+        "name": "Sonata Project"
+    },
+    {
+        "components": [
+            "Symfony Full Stack"
+        ],
+        "name": "Zikula"
+    },
+    {
+        "components": [
+            "Symfony Full Stack"
+        ],
+        "name": "Symfony CMF"
+    },
+    {
+        "components": [
+            "Symfony Full Stack"
+        ],
+        "name": "Akeneo PIM"
+    },
+    {
+        "components": [
+            "Config",
+            "Console",
+            "DependencyInjection",
+            "Filesystem",
+            "Finder",
+            "HttpFoundation",
+            "HttpKernel",
+            "Routing",
+            "Validator",
+            "Yaml"
+        ],
+        "name": "Shopware"
+    },
+    {
+        "components": [
+            "Console",
+            "Filesystem",
+            "Finder",
+            "Validator",
+            "Yaml"
+        ],
+        "name": "Propel"
+    },
+    {
+        "components": [
+            "ClassLoader",
+            "Config",
+            "Console",
+            "Debug",
+            "DependencyInjection",
+            "EventDispatcher",
+            "Finder",
+            "Form",
+            "HttpFoundation",
+            "HttpKernel",
+            "Intl",
+            "OptionsResolver",
+            "Process",
+            "Routing",
+            "Security",
+            "Templating",
+            "Translation",
+            "Validator",
+            "Yaml"
+        ],
+        "name": "Mautic"
+    },
+    {
+        "components": [
+            "Symfony Full Stack"
+        ],
+        "name": "freepost"
+    },
+    {
+        "components": [
+            "BrowserKit",
+            "Console",
+            "CssSelector",
+            "DomCrawler",
+            "EventDispatcher",
+            "Finder",
+            "Yaml"
+        ],
+        "name": "Codeception"
+    }
+]
+
