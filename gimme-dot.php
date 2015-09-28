@@ -3,7 +3,8 @@
 $projects = json_decode(file_get_contents('projects-components.json'), true);
 
 echo "digraph SymfonyComponents {
-  rankdir=LR;
+  rankdir=LR
+  concentrate=true
 ";
 foreach ($projects as $project) {
   extract($project);
