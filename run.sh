@@ -11,5 +11,6 @@ set -e
 
 php gimme-fdp.php > symfony.fdp.gv
 cat symfony.fdp.gv | fdp -Tsvg > symfony.fdp.svg
-cat symfony.fdp.gv | fdp -Tpng > symfony.fdp.png
+# cat symfony.fdp.gv | fdp -Tpng > symfony.fdp.png
+inkscape -z -f symfony.fdp.svg -w 1200 -e symfony.fdp.png
 
